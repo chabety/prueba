@@ -8,7 +8,6 @@ package ejercicio1;
 /**
  *
  * @author rickylopez
- * aldsjlkjalkdjalskjfd
  */
 public class ejercicio2 {
     // le agrego algo
