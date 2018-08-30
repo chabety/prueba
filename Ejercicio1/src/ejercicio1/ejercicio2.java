@@ -11,5 +11,5 @@ package ejercicio1;
  * aldsjlkjalkdjalskjfd
  */
 public class ejercicio2 {
-    
+    // le agrego algo
 }
